@@ -14,7 +14,7 @@ You'll find an XML file in the directory src/main/resources. To import this, ope
 ## Requirements
 Your team decided on the following changes:
 
-* Javadoc comments for public classes and members should not be enforced anymore.
+* Javadoc comments for public classes not be enforced anymore.
 * References to methods and variables of the current object explicitly require a "this" (e.g. this.methodName()).
 * The maximum line length should be raised to 160, since all developers got new monitors recently.
 * Methods should be no longer than 10 lines each.
